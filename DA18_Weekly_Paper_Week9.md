@@ -32,7 +32,7 @@ DA18 임지호
    - `options` : 선택한 옵션
    - `discount_rate` : 할인율
 
-1. 결제 완료 (purchase)
+1. 결제 완료 (`purchase`)
     
     : 유저가 결제를 마치고 주문 완료 페이지에 도달했을 떄 발생
 
